@@ -75,7 +75,7 @@
     "buffers": "*",
     "buffertools": "*",
     "browserify-buffertools": "git://github.com/maraoz/browserify-buffertools.git",
-    "elliptic": "=0.15.12",
+    "elliptic": "*",
     "hash.js": "=0.3.2",
     "jsrsasign": "=0.0.3",
     "preconditions": "^1.0.7",
