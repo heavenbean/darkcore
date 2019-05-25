@@ -82,7 +82,7 @@
     "protobufjs": "=3.0.0",
     "sjcl": "=1.0.1",
     "socks5-client": "~0.3.6",
-    "x11-hash": "*"
+    "x11-hash-js": "*"
   },
   "testling": {
     "harness": "mocha-bdd",
